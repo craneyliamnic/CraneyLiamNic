@@ -1,3 +1,3 @@
 <h1 align="center">Hi 👋, I'm Liam</h1>
-Welcome to my GitHub Page. I want to clarify that I am not a professional, and I do not upload every project I work on. Instead, I randomly upload various things from my PC. Everything you find here is 100% free and open source, and no credits are necessary. Feel free to use anything you find.
-btw i am not really active on github
+
+Greetings on my GitHub page! I want to make it clear that I'm not a professional. Instead, I occasionally upload various things from my computer. Everything available here is entirely free and open-source, and no credit is necessary. Feel free to use anything you find.
