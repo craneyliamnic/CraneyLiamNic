@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/549a136d-4329-444a-a063-cd4a8254b0fb" alt="Description of the image" width="200">
-</div>
 
 <h1 align="center">Hi 👋, I'm Liam</h1>
 <h3 align="center">Everything available here is entirely free and open-source, and no credit is necessary</h3>
