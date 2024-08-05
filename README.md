@@ -6,6 +6,7 @@
 <h3 align="center">Everything available here is entirely free and open-source, and no credit is necessary</h3>
 <br>
 <h3 align="left">Active Projects:</h3>
+
 - 🔭 ![Picscape](https://github.com/AIO-Develope/PicScape-Frontend)
 <br>
 <br>
@@ -39,4 +40,5 @@
 <br>
 <br>
 <h3 align="left">Stats:</h3>
+
 ![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=craneyliamnic&show_icons=true&theme=dracula)
