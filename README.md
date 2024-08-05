@@ -7,8 +7,7 @@
 <br>
 <h3 align="left">Active Projects:</h3>
 
-- 🔭 ![Picscape](https://github.com/AIO-Develope/PicScape-Frontend)
-<br>
+- 📷 <a href="https://github.com/AIO-Develope/PicScape-Frontend">Picscape</a>
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
